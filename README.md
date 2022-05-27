@@ -16,6 +16,7 @@ O objetivo desse projeto foi de avaliar meus conhecimentos em CSS com imagens em
 ![clone-oklama](https://user-images.githubusercontent.com/89283901/170794290-8cc6c7cd-17b8-46e9-b91e-a74056b674f2.gif)
 
 
+
 # 🧨 Observações:
 Esse é meu primeiro projeto clonando uma site, consequentimento tive alguns problemas* que poderia ter sido consertados com implementação de JS, porém o propósito era implementar o CSS. 
 
