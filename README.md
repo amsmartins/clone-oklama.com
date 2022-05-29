@@ -2,16 +2,29 @@
 - Clonagem de site liberado pelo Kendrik Lamar para atualizações sobre o seu novo projeto, Mr. Morale & The Big Steppers. 
 - 🖱️ [Clique aqui]( https://amsmartins.github.io/clone-oklama.com/) para acessar o site.
 
+<<<<<<< Updated upstream
 ## 🛠 Tech Stack:
 - HTML
 - CSS
+=======
+🛠 Tech Stack:
+---
+HTML
+CSS
+---
+>>>>>>> Stashed changes
 
 ## 🗿 Motivação
 O objetivo desse projeto foi de avaliar meus conhecimentos em CSS com imagens em lugares diferentes.
 
 
+<<<<<<< Updated upstream
 ## 🧨 Observações:
 Esse é meu primeiro projeto clonando uma site, consequentimento tive alguns problemas* que poderia ter sido consertados com implementação de JS, porém o propósito era implementar o CSS. 
+=======
+🧨 Observações:
+	Esse é meu primeiro projeto clonando uma site, consequentimento tive alguns problemas* que poderia ter sido consertados com implementação de JS, porém o propósito era implementar o CSS. 
+>>>>>>> Stashed changes
 
 *Ao clicar na foto central deveria abrir a imagem maior com o background completo, porém não funcionou.
 
