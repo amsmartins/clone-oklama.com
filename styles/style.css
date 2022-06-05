@@ -9,7 +9,7 @@
 
 body {
     font-family: 'JetBrains Mono', monospace;
-    overflow: hidden;
+   /* overflow: hidden; */
     font-size: 13px;
 }
 
